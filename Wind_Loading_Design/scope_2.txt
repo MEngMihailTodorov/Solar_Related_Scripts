@@ -1,0 +1,1 @@
+This Design Wind Report provides a comprehensive analysis of the wind loading applicable at Dunfermline Solar Farm. The following key aspects were evaluated and calculated based on the principles and guidelines of Eurocode 0 (EN 1990) and Eurocode 1 (EN 1991-1-4):

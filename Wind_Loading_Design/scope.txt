@@ -1,0 +1,6 @@
+The Wind Loading Design Report provides a comprehensive analysis of the wind loading on the Dunfermline Solar Farm, including considerations of various site specific factors and parameters . The analysis includes detailed calculations and assessments of wind velocity, pressure distributions, and the resulting forces on the structure. The purpose of this report is to ensure the structural integrity and safety of the solar farm under various wind conditions. The methodologies and results presented herein follow industry standards and are based on the latest available data and engineering principles. When required the design considerations use appropriate assumptions as part of the process allowed under the applicable normative framework, if not stated otherwise the most conservative approach is always implemented. The particular Design Standards used for the calculation and verification of applied loadings are detailed below.
+
+Design Standards and Guidelines:
+
+1. Eurocode 0: Basis of Structural Design (EN 1990);
+2. Eurocode 1: Actions on Structures - Part 1-4: General Actions - Wind Actions (EN 1991-1-4);
